@@ -2,7 +2,7 @@
 Yiğit</a></h1>
 <h3 align="center">A passionate MERN Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yigitbozyaka&color=green" alt="yigitbozyaka" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yigitbozyaka&color=blueviolet" alt="yigitbozyaka" /> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
