@@ -22,10 +22,10 @@ Yiğit</a></h1>
 
 
 
-
+<h3 align="center" >Connect with me 🤝 </h3>
 <p align="center">
 	
-	<h3 align="center" >Connect with me 🤝 </h3>
+	
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yigitbozyaka/">
