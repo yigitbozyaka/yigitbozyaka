@@ -9,7 +9,7 @@ Yiğit</a></h1>
 
 - 🔭 I’m currently working as freelancer.
 
-- 🤝 I’m available for freelancing.
+- 🤝 I’m available for hiring.
 
 - 📝 I can code websites with MERN or I can create Discord Bots for you.
 
