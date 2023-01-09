@@ -19,9 +19,13 @@ Yiğit</a></h1>
 
 - 📄 Know about my experiences <a href="https://github.com/yigitbozyaka" target="blank">Resume</a> (more coming soon...)
 <br/> <br/>
-<h3 align="center" >Connect with me 🤝 </h3>
+
+
+
 
 <p align="center">
+	
+	<h3 align="center" >Connect with me 🤝 </h3>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yigitbozyaka/">
