@@ -18,7 +18,7 @@ Yiğit</a></h1>
 - 📫 How to reach me **yigitbozyaka4@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/yigitbozyaka" target="blank">Resume</a> (more coming soon...)
-<br/>
+<br/> <br/>
 <h3 align="center" >Connect with me 🤝 </h3>
 
 <p align="center">
