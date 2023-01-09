@@ -29,7 +29,7 @@ Yiğit</a></h1>
 	
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yigitbozyaka/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/yi%C4%9Fit-bozyaka-0768bb193/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/yigitbozyaka">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
