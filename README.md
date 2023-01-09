@@ -2,8 +2,6 @@
 Yiğit</a></h1>
 <h3 align="center">A passionate MERN Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="yigitbozyaka" /> </p>
-
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -21,7 +19,7 @@ Yiğit</a></h1>
 
 - 📄 Know about my experiences <a href="https://github.com/yigitbozyaka" target="blank">Resume</a> (more coming soon...)
 <br/>
-<h3 align="center" > <img src="https://i.pinimg.com/736x/ce/98/9c/ce989c0dd688b3b99a31400129d2d211.jpg" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" >Connect with me 🤝 </h3>
 
 <p align="center">
 
